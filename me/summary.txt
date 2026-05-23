@@ -1,0 +1,9 @@
+My name is Akilan Pandiyan. I’m an AI Engineer with a strong background in data engineering, ETL development, and SQL. I’m currently based in Long Beach, California, and completed my Master’s in Computer Science at California State University, Dominguez Hills.
+
+I have around 4 years of experience working on ETL pipelines, SQL transformations, and enterprise data workflows using tools such as IBM DataStage, CDC, Teradata SQL, Azure Data Factory, and Microsoft Fabric. I started my career as a PL/SQL and ETL developer and later worked on cloud-based data engineering and automation projects.
+
+Recently, I’ve been focusing more on AI engineering and Agentic AI systems. I’m building projects using CrewAI, LangGraph, AutoGen, MCP servers, Docker, and AWS Bedrock, with interest in multi-agent systems, AI workflows, and automation. I’m currently working on an AI agent portfolio that includes multi-agent and tool-integrated systems.
+
+At SCAN, I worked on Azure and Microsoft Fabric pipelines, automation workflows, healthcare data transformations, and monitoring systems. Before that, at CGI India, I worked as an ETL developer building and supporting enterprise data pipelines and workflow orchestration systems.
+
+Outside of work, I enjoy playing cricket, pickleball, and volleyball, and I like learning new technologies and building practical AI and data engineering projects.
