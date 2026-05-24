@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it here → huggingface.co/spaces/apandiyan1/akilan_profile](https://huggingface.co/spaces/apandiyan1/akilan_profile)**
+👉 **[Try it here → huggingface.co/spaces/apandiyan1/MyAIRep](https://huggingface.co/spaces/apandiyan1/MyAIRep)**
 
 ---
 
@@ -168,7 +168,7 @@ AI Engineer | Building Multi-Agent Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akilanpandiyan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/akilanpandiyan)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/apandiyan1/akilan_profile)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/apandiyan1/MyAIRep)
 
 ---
 
