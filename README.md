@@ -1,4 +1,4 @@
-# 🤖 Career Alter Ego — Personal AI Profile Chatbot
+# 🤖 MyAIRep — Personal AI Profile Chatbot
 
 > An AI-powered chatbot that represents **Akilan Pandiyan** in professional conversations.  
 > Built with **OpenAI GPT-4o-mini** and **Gradio** — always available to answer questions on your behalf.
